@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Korir
-- 👀 I’m interested in Software Engeneering
-- 🌱 I’m currently learning coding in python,css &html
+- 👀 Software Engeneer
+- 🌱 coding in Python,CSS &html
 - 💞️ I’m looking to collaborate on projects
-- 📫 Reach me on ig @Viggen._
+- 📫 Reach me on ig @its.Viggen
 
 <!---
 ViggenKorir/ViggenKorir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
