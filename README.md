@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Korir
 - 👀 Software Engineer/Web Developer/ Prompt Engineer
 - 💻 coding in Python, Java Script, HTML & CSS 
-- 📫 Reach me on Instagram: its.Viggen or mail: Viggenkorir@gmail.com
+- 📫 Reach me on Instagram: its.Viggen or mail: koriremanuel0@gmail.com
 
 <!---
 ViggenKorir/ViggenKorir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
