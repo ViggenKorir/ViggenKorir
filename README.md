@@ -20,7 +20,7 @@ I am constantly learning and evolving. Currently, I am diving deeper into advanc
 ## 📫 How to Reach Me
 Feel free to reach out to me via email for any inquiries or collaborations. I am always open to discussing new projects or opportunities.
 - Email: koriremanuel0@gmail.com
-- Portfolio: [Korir Emanuel](#) 
+- Portfolio: [Korir Emanuel](https://portfolio-korir.web.app/) 
 
 ## 📈 GitHub Stats
 ![Korir's GitHub stats](https://github-readme-stats.vercel.app/api?username=viggenkorir&show_icons=true&theme=radical)
@@ -42,7 +42,7 @@ Feel free to reach out to me via email for any inquiries or collaborations. I am
 
 #### - [LinkedIn](https://www.linkedin.com/in/korir-emanuel-1b1448244/) 
 #### - [Twitter](https://x.com/Viggen_korir) 
-#### - [Blog](#) Coming Soon
+#### - [Blog](https://portfolio-korir.web.app/) Coming Soon
 ---
 
 <div align="center">
