@@ -31,7 +31,7 @@ Feel free to reach out to me via email for any inquiries or collaborations. I am
 
 ### Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ViggenKorir/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ViggenKorir)](https://github.com/ViggenKorir/github-profile-trophy)
 
 # 🔗 Connect with Me!
 
