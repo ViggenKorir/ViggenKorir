@@ -13,12 +13,13 @@ I am a Full Stack Software Engineer passionate about solving complex problems an
 - **Tools & Platforms**: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) ![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 🌱 What I'm Currently Learning
-I am constantly learning and evolving. Currently, I am diving deeper into advanced React concepts and exploring the world of cloud computing with AWS.
+I am constantly learning and evolving. Currently, I am diving deeper into the world of Data Science, geared toward diving into AI, Machine Learning and Automation. If this sparks your interest, feel free to holla at me!
 
 ## 📫 How to Reach Me
 Feel free to reach out to me via email for any inquiries or collaborations. I am always open to discussing new projects or opportunities.
 - Email: koriremanuel0@gmail.com
-- Portfolio: [Korir Emanuel](https://portfolio-korir.web.app/) 
+- Portfolio: [Korir Emanuel](https://portfolio-korir.web.app/)
+On socials? Link on bio...
 
 ## 📈 GitHub Stats
 ![Korir's GitHub stats](https://github-readme-stats.vercel.app/api?username=viggenkorir&show_icons=true&theme=radical)
