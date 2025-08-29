@@ -19,7 +19,7 @@ I am constantly learning and evolving. Currently, I am diving deeper into the wo
 Feel free to reach out to me via email for any inquiries or collaborations. I am always open to discussing new projects or opportunities.
 - Email: koriremanuel0@gmail.com
 - Portfolio: [Korir Emanuel](https://portfolio-korir.web.app/)
-On socials? Link on bio...
+- On socials? Link on bio...
 
 ## 📈 GitHub Stats
 ![Korir's GitHub stats](https://github-readme-stats.vercel.app/api?username=viggenkorir&show_icons=true&theme=radical)
