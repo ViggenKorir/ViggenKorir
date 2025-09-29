@@ -5,8 +5,6 @@
 ## 👀 About Me
 I am a Full Stack Software Engineer passionate about solving complex problems and creating efficient, scalable solutions. My expertise spans multiple programming languages and frameworks, allowing me to build dynamic and responsive web applications.
 
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 ## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,nodejs,nextjs,figma,python,react,vercel,firebase,netlify,git,github,typescript,flask,django,aws,gcp,azure,dart,flutter,docker,kubernetes,ai&theme=light)](https://skillicons.dev)
