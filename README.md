@@ -14,7 +14,7 @@ I am a Full Stack Software Engineer passionate about solving complex problems an
 - **Tools & Platforms**: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) ![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 🌱 What I'm Currently Learning
-I am constantly learning and evolving. Currently, I am diving deeper into the world of Data Science, geared toward diving into AI, Machine Learning and Automation. If this sparks your interest, feel free to holla at me!
+I am constantly learning and evolving. Currently, I am diving deeper into the world of Data Science, geared toward diving into AI, Machine Learning and Automation. If this sparks your interest, feel free to reach out! [Twitter](https://x.com/Viggen_korir) 
 
 ## 📫 How to Reach Me
 Feel free to reach out to me via email for any inquiries or collaborations. I am always open to discussing new projects or opportunities.
