@@ -3,7 +3,7 @@
 <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="My Image" width="300" height="200">
 
 ## Me?
-I am a Full Stack Software Engineer passionate about solving complex problems and creating efficient, scalable solutions. My expertise spans multiple programming languages and frameworks, allowing me to build dynamic and responsive web applications.
+I am a Full Stack Software Engineer passionate about solving problems and creating efficient, scalable solutions. My expertise spans multiple programming languages and frameworks, allowing me to build dynamic and responsive web applications.
 
 ## My Stack!
 
@@ -24,7 +24,7 @@ Feel free to reach out to me via email for any inquiries or collaborations. I am
 #### - [LinkedIn](https://www.linkedin.com/in/engkorir/) 
 #### - [Twitter](https://x.com/Viggen_korir) 
 
-## Stats
+## Stats:
 ![Korir's GitHub stats](https://github-readme-stats.vercel.app/api?username=viggenkorir&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=viggenkorir&theme=radical)](https://git.io/streak-stats)
